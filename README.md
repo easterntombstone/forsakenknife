@@ -1,14 +1,12 @@
 # forsakenknife
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to generate an ssh key and add an entry to the ssh config file
 
 ## Usage
 
-FIXME
+(sshkeygen usespassphrase host hostname user keycomment)
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Emory Merryman <emory.merryman@gmail.com
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.

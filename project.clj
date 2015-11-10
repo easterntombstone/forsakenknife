@@ -1,7 +1,7 @@
 (defproject forsakenknife "ignored because of DRY"
   :description "Generate an ssh key and add entry to ssh config file."
-  :repositories [["local" "file://deploy/loneviper"]]
-  :url "git remote add origin git@github.com:easterntombstone/forsakenknife.git"
+  :repositories [["local" "file://deploy/loneviper" :sign-releases false]]
+  :url "https://github.com/easterntombstone/forsakenknife"
   :license {:name "GNU GPL 3"
             :url "http://www.gnu.org/licenses/gpl-3.0.en.html"}
   :dependencies [[org.clojure/clojure "1.7.0"]]

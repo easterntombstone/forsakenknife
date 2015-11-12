@@ -4,4 +4,5 @@
 
 (deftest a-test
   (testing "FIXME, I pass."
+    (foo "YES")
     (is (= 1 1))))

@@ -1,4 +1,4 @@
-(defproject forsakenknife "0.1.0-SNAPSHOT"
+(defproject easterntombstone/forsakenknife "0.2.0-SNAPSHOT"
   :description "Generate an ssh key and add entry to ssh config file."
   :repositories [["local" "file://loneviper"]]
   :url "https://github.com/easterntombstone/forsakenknife"

@@ -7,3 +7,5 @@
 	- Changes to the naming of the project so that
 	we can use it with saturdayseagle withou
 	conflict.
+	## 0.3.0
+	- Use standardized name spacing.
